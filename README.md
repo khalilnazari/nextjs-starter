@@ -1,8 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project.
 
-## Getting Started
+## NextJS Starter
+This works with below libraries 
+#### next-auth
+#### mongoose / mongodb
+#### tailwindcss
 
-First, run the development server:
+To run the development server:
 
 ```bash
 npm run dev
@@ -12,7 +16,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+To see the result open [http://localhost:3000](http://localhost:3000) with your browser.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
